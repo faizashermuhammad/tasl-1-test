@@ -1,0 +1,72 @@
+body{
+    position: absolute;
+    margin-top: 250px;
+    margin-bottom:250px;
+    margin-left: 120px;
+    margin-right: 120px;
+    align-content: center;
+    letter-spacing: 1cm; 
+    background-color: black;
+
+    
+
+    
+}
+#buy-btn{
+    background-color:red;
+    color:white;
+    border: transparent;
+    width: 150px;
+    height: 50px;
+    
+    
+    
+}
+.btn-1{
+    background-color:yellow;
+    color:blue;
+    border:solid blue;
+    width: 120px;
+    height: 50px;
+
+
+}
+.btn-2{
+    background-color:lightskyblue;
+    color:white;
+    border-radius:25px; 
+    width:130px;
+    height:40px;
+}
+
+.btn-3{
+    color:blue;
+    width: 100px;
+    height: 50px;
+    border-radius:20px; 
+    border:solid blue;
+
+
+
+}
+.btn-4{
+    background-color:rgba(238, 244, 15, 0.918);
+    color:white;
+    border:transparent;
+    height:50px;
+    width:150px; 
+    
+
+}
+.btn-3{
+    color:blue;
+    width: 100px;
+    height: 50px;
+    border-radius:30; 
+    border:solid blue;
+
+
+    
+
+
+
